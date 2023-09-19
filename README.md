@@ -14,10 +14,10 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 <h5>Espero les resulte de utilidad</h5>
 
 <h2>Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
-<img style="width:'25%'" src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >
-<img style="width:'25%'" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >
-<img style="width:'25%'" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" >
-<img style="width:'25%'" src="https://cedavilu.com/assets/img/cursos/cursos-4.png" >
+<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >
+<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >
+<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" >
+<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-4.png" >
 
 <img style= "width: '100%'" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
 
