@@ -20,7 +20,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
       <img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >      
     </td>
     <td>
-      <img style="width:25%" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >      
+      <img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >      
     </td>
     <td>
       <img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" >
