@@ -17,23 +17,25 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 <table>
   <tr>
     <td>
-      <a href="https://cedavilu.com/curso-desarrollo-web-detalle.html" <img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" > </a>      
+      <a href="https://cedavilu.com/curso-desarrollo-web-detalle.html"> <img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" > </a>      
     </td>
     <td>
-       <a href="https://cedavilu.com/curso-javascript-detalle.html"<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" ></a>      
+       <a href="https://cedavilu.com/curso-javascript-detalle.html"><img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" ></a>      
     </td>
     <td>
-      <a href= "https://cedavilu.com/curso-javascript-avanzado-detalle.html"<img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" ></a>
+      <a href= "https://cedavilu.com/curso-javascript-avanzado-detalle.html"><img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" ></a>
     </td>
     <td>
-    <a href="https://cedavilu.com/curso-nodejs-detalle.html" <img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-4.png" ></a>
+    <a href="https://cedavilu.com/curso-nodejs-detalle.html"> <img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-4.png" ></a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>  
-   <a href= "https://cedavilu.com/" <td><img src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg"></td></a>
+    <td>
+       <a href= "https://cedavilu.com/"> <img src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg"></a>
+    </td> 
   </tr>
 </table>
 
