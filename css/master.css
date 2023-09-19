@@ -1,0 +1,17 @@
+#body{
+    background-image: url('https://cdn.pixabay.com/photo/2016/03/18/14/22/moon-1265088_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/19/12/24/bicycle-1839005_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/*=== Aquí no permito que se vea la tabla===*/
+#tabla{
+    margin-top: 20px;
+    display: none;
+}

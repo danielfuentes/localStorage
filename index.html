@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registro de usuarios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <link rel="stylesheet" href="./css/master.css">
+</head>
+
+<body>
+    <div class="container-fluid p-0">
+        <div class="container-fluid bg-light">
+            <ul class="nav justify-content-center">
+                <li class="nav-item" >
+                    <a  id="botonImprimir" class="nav-link" href="#">Mostrar los usuarios registrados</a>
+                </li>
+                <li class="nav-item" >
+                    <a  id="botonBorrar" class="nav-link" href="#">Borrar todos los usuarios</a>
+                </li>
+            </ul>
+        </div>
+        <h1 class="text-center text-white mb-3">Registro de usuarios</h1>
+        <div class="row container-fluid p-0">
+            <form class="col-8  col-md-4 m-auto bg-light p-2 rounded opacity-75" autocomplete="off">
+                <div class="mb-3">
+                    <label for="nombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" id="nombre" name="nombre">
+                </div>
+                <div class="mb-3">
+                    <label for="apellido" class="form-label">Apellido</label>
+                    <input type="text" class="form-control" id="apellido" name="apellido">
+                </div>
+                <div class="mb-3">
+                    <label for="correo" class="form-label">Correo</label>
+                    <input type="email" class="form-control" id="correo" aria-describedby="emailHelp" name="email">
+                </div>
+                <div class="mb-3">
+                    <label for="direccion" class="form-label">Dirección</label>
+                    <input type="text" class="form-control" id="direccion" name="direccion">
+                </div>
+                <button type="submit" id="botonRegistrar" class="btn btn-primary">Registrar</button>
+            </form>
+        </div>
+        <div class="container-fluid p-0" id="tabla">
+            <h1 class="text-center text-white ">Listado de usuarios</h1>
+            <table class="table text-center">
+                <thead class="table-dark ">
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Correo electrónico</th>
+                        <th>Dirección</th>
+                    </tr>
+                </thead>
+                <tbody id="cuerpoTabla">
+
+                    <!-- Aquí pongo esto en comentario para que se muestren los datos en la tabla de manera dinámica, listado los datos que estan guardados en el local storage
+                    <tr >
+                        <td>Daniel</td>
+                        <td>Fuentes</td>
+                        <td>cedavilu@gmail.com</td>
+                        <td>Lima - Perú</td>
+                    </tr>
+                    -->
+                </tbody>
+            </table>
+        </div>
+        <div id="productos">
+            <ul id="listadoProductos">
+
+            </ul>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+        crossorigin="anonymous"></script>
+        <script src="./js/index.js"></script>
+</body>
+
+</html>
