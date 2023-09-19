@@ -13,7 +13,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 
 <h5>Espero les resulte de utilidad</h5>
 
-<h2 style="text-align:center">Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
+<h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
     <td>
