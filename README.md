@@ -32,7 +32,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 </table>
 
 
-<img style= "width: 100" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
+<img style= "display:bock ;margin:auto" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
 
 
 
