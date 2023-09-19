@@ -12,4 +12,10 @@ los usuarios registrados.
 Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borraran los datos que se encontraban en el navegador por medio del localStorage. </p>
 
 <h5>Espero les resulte de utilidad</h5>
-<img src= "" />
+<iframe
+  title="Cedavilu web Academy"
+  width="300"
+  height="200"
+  src="https://cedavilu.com/"
+>
+</iframe>
