@@ -13,7 +13,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 
 <h5>Espero les resulte de utilidad</h5>
 
-<h2>Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
+<h2 style="text-align:center">Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
     <td>
@@ -32,7 +32,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 </table>
 
 
-<img style= "width: '100%'" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
+<img style= "width: 100" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
 
 
 
