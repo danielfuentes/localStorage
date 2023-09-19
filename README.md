@@ -12,10 +12,14 @@ los usuarios registrados.
 Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borraran los datos que se encontraban en el navegador por medio del localStorage. </p>
 
 <h5>Espero les resulte de utilidad</h5>
-<iframe
-  title="Cedavilu web Academy"
-  width="300"
-  height="200"
-  src="https://cedavilu.com/"
->
-</iframe>
+
+<h2>Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
+<img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >
+<img src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >
+<img src="https://cedavilu.com/assets/img/cursos/cursos-3.png" >
+<img src="https://cedavilu.com/assets/img/cursos/cursos-4.png" >
+
+<img src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
+
+
+
