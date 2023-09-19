@@ -1,4 +1,4 @@
-<h1>JajvaScript - localStorage</h1>
+<h1>JavaScript - localStorage</h1>
 <br>
 <h2>Pequeño proyecto. Creado para mis alumnos de la <strong> Universidad Tres de Frebrero (UNTREF) - Argentina - Bajo el marco del Proyecto: Argentina Programa</strong></h2>
 
@@ -14,7 +14,7 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
 <h5>Espero les resulte de utilidad</h5>
 
 <h2>Si quieres ir desde 0% a 100% en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
-<img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >
+<img style="width:25%" src="https://cedavilu.com/assets/img/cursos/cursos-1.png" >
 <img src="https://cedavilu.com/assets/img/cursos/cursos-2.png" >
 <img src="https://cedavilu.com/assets/img/cursos/cursos-3.png" >
 <img src="https://cedavilu.com/assets/img/cursos/cursos-4.png" >
