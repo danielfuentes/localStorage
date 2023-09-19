@@ -31,9 +31,11 @@ Finalmente si acciona clic, sobre el botón Borrar usuarios, notará que se borr
   </tr>
 </table>
 
-<div style="width:100;text-align:center ">
-  <img src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg">
-</div>
+<table>
+  <tr>  
+    <td><img src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg"></td>
+  </tr>
+</table>
 
 
 
